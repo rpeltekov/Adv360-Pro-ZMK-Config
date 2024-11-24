@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-        "&kp EQUAL",    "&kp N1",   "&kp N2",   "&kp N3",    "&kp N4", "&kp N5",               "&none",                                                                            "&mo 3", "&kp N6",   "&kp N7",    "&kp N8",   "&kp N9",   "&kp N0", "&kp MINUS",
-          "&kp TAB",     "&kp Q",    "&kp Q",    "&kp W",     "&kp E",  "&kp R",               "&kp T",                                                                            "&none",  "&kp Y",    "&kp U",     "&kp I",    "&kp O",    "&kp P",  "&kp BSLH",
-          "&kp ESC",   "&kp ESC",    "&kp A",    "&kp S",     "&kp D",  "&kp F",               "&kp G", "&kp LCTRL", "&kp LALT",                      "&kp LGUI", "&kp RCTRL",    "&trans",  "&kp H",    "&kp J",     "&kp K",    "&kp L", "&kp SEMI",   "&kp SQT",
-       "&kp LSHIFT",     "&kp Z",    "&kp X",    "&kp C",     "&kp V",  "&kp B",                                        "&kp Q",                     "&kp PG_UP",                            "&kp N",    "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
-            "&mo 2", "&kp LCTRL", "&kp CAPS", "&kp LEFT", "&kp RIGHT",                     "&kp SPACE",     "&kp E",    "&kp C",                     "&kp PG_DN", "&kp ENTER", "&kp SPACE",           "&kp DOWN",    "&kp UP", "&kp LBKT", "&kp RBKT",     "&mo 2"
+        "&kp EQUAL",    "&kp N1",   "&kp N2",   "&kp N3",    "&kp N4", "&kp N5",               "&none",                                                                                   "&mo 3", "&kp N6",   "&kp N7",    "&kp N8",   "&kp N9",   "&kp N0", "&kp MINUS",
+          "&kp TAB",     "&kp Q",    "&kp Q",    "&kp W",     "&kp E",  "&kp R",               "&kp T",                                                                                   "&none",  "&kp Y",    "&kp U",     "&kp I",    "&kp O",    "&kp P",  "&kp BSLH",
+          "&kp ESC",   "&kp ESC",    "&kp A",    "&kp S",     "&kp D",  "&kp F",               "&kp G", "&kp LCTRL", "&kp LALT",                      "&kp LGUI",        "&kp RCTRL",    "&trans",  "&kp H",    "&kp J",     "&kp K",    "&kp L", "&kp SEMI",   "&kp SQT",
+       "&kp LSHIFT",     "&kp Z",    "&kp X",    "&kp C",     "&kp V",  "&kp B",                                        "&kp Q",                     "&kp PG_UP",                                   "&kp N",    "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
+            "&mo 2", "&kp LCTRL", "&kp CAPS", "&kp LEFT", "&kp RIGHT",                     "&kp SPACE",     "&kp E",    "&kp C",                     "&kp PG_DN", "&macro_game_chat", "&kp SPACE",           "&kp DOWN",    "&kp UP", "&kp LBKT", "&kp RBKT",     "&mo 2"
     ]
   ]
 }
