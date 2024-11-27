@@ -2,19 +2,19 @@ macro_game_chat_exit: macro_game_chat_exit{
 compatible = "zmk,behavior-macro";
 label = "macro_game_chat_exit";
 #binding-cells = <0>;
-bindings = <&to 4>, <&kp ESC>;
+bindings = <&to 3>, <&kp ESC>;
 };
 macro_game_chat_fin: macro_game_chat_fin{
 compatible = "zmk,behavior-macro";
 label = "macro_game_chat_fin";
 #binding-cells = <0>;
-bindings = <&kp ENTER>, <&to 4>;
+bindings = <&kp ENTER>, <&to 3>;
 };
 macro_game_chat_open: macro_game_chat_open{
 compatible = "zmk,behavior-macro";
 label = "macro_game_chat_open";
 #binding-cells = <0>;
-bindings = <&kp ENTER>, <&to 5>;
+bindings = <&kp ENTER>, <&to 4>;
 };
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
